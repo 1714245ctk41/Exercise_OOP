@@ -1,0 +1,16 @@
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\Exercise_1-1.exe
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\Exercise_1-1.deps.json
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\Exercise_1-1.runtimeconfig.json
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\Exercise_1-1.runtimeconfig.dev.json
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\Exercise_1-1.dll
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\ref\Exercise_1-1.dll
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\bin\Debug\net5.0\Exercise_1-1.pdb
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.csprojAssemblyReference.cache
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.AssemblyInfoInputs.cache
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.AssemblyInfo.cs
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.csproj.CoreCompileInputs.cache
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.dll
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\ref\Exercise_1-1.dll
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.pdb
+D:\API-net_learn\baitap\Exercise\Exercise_1-1\obj\Debug\net5.0\Exercise_1-1.genruntimeconfig.cache
