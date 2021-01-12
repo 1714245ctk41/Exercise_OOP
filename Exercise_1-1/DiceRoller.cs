@@ -8,7 +8,7 @@ namespace Exercise_1_1
 {
     class DiceRoller
     {
-        public Dice[] Dice { get; set; }
+    /*    public Dice[] Dice { get; set; }
         public double[] Percentage { get; set; } 
         public DiceRoller(double[] percentage)
         {
@@ -67,6 +67,6 @@ namespace Exercise_1_1
                 }
                 CreateDiceArray( percentage);
             }
-        }
+        }*/
     }
 }

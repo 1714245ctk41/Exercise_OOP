@@ -8,13 +8,12 @@ namespace Exercise_1_1
 {
     class Dice
     {
-        public int NumberSide { get; set; }
-        public double NumberOfOccurrences { get; set; }
-        public Dice(int numberSide, double percentage)
+        public int NumFaces{ get; set; }
+        public int[] FaceProbability{ get; set; }
+        public Dice(int numFaces, int[] faceProbability)
         {
-            Percentage = percentage;
-            NumberSide = numberSide;
-            NumberOfOccurrences = 0.0;
+            FaceProbability = faceProbability;
+            NumFaces = numFaces;
         }
     }
 }
